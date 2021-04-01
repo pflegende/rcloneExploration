@@ -1,0 +1,2 @@
+# rcloneExploration
+looking around rclone
