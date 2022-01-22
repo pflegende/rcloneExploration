@@ -2,8 +2,8 @@
 
 ## rcx - zoho not in Add-Option aka "+" on App Screen
 
--> https://pflegende.atlassian.net/browse/BA1-2?atlOrigin=eyJpIjoiZDc1OTkwNjQ5MWJkNDFmOTg5ZWJlOWU2NzcwNTQ5NzYiLCJwIjoiaiJ9
--> (== something, not all) 
+- jira 2do: https://pflegende.atlassian.net/browse/BA1-2?atlOrigin=eyJpIjoiZDc1OTkwNjQ5MWJkNDFmOTg5ZWJlOWU2NzcwNTQ5NzYiLCJwIjoiaiJ9
+- (== something, not all) https://github.com/x0b/rcx/issues/198 22.1.2022, 18:24:03
 
 ## starting j
 
