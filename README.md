@@ -4,7 +4,9 @@ looking around rclone
 work in progress
 
 
-have also a look at the [wiki - work in progress](https://github.com/pflegende/rcloneExploration/wiki)
+have also a look at 
+- the [journal](https://github.com/pflegende/rcloneExploration/blob/main/j.md)
+- the [wiki - work in progress](https://github.com/pflegende/rcloneExploration/wiki)
 
 
 
